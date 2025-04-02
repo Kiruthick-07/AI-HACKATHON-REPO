@@ -1,4 +1,4 @@
-def classify_news(headline):
+5%def classify_news(headline):
     sectors = {
     "automobile": ["tesla", "ev", "car", "vehicle", "automaker", "ford", "bmw", "audi", "maruti", "tata motors", "mahindra", "bajaj", "ashok leyland", "hero", "royal enfield"],
     
